@@ -25,6 +25,8 @@ public class GradeCalculator
     System.out.println(f1);
     int Avetime1 = 145 / 60;
     double Avetime2 = 145 % 60;
+    System.out.println(Avetime1);
+    System.out.println(Avetime2);
 
 
 
